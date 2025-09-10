@@ -6,7 +6,7 @@ Thank you for your interest in contributing to MCP Playwright! This guide will h
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/mcp-playwright.git
+   git clone https://github.com/devcodingskill/mcp-playwright.git
    cd mcp-playwright
    ```
 

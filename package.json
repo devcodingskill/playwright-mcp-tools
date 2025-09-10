@@ -28,16 +28,16 @@
     "browser",
     "web-scraping"
   ],
-  "author": "Your Name",
+  "author": "devcodingskill",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/mcp-playwright.git"
+    "url": "git+https://github.com/devcodingskill/mcp-playwright.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/mcp-playwright/issues"
+    "url": "https://github.com/devcodingskill/mcp-playwright/issues"
   },
-  "homepage": "https://github.com/yourusername/mcp-playwright#readme",
+  "homepage": "https://github.com/devcodingskill/mcp-playwright#readme",
   "files": [
     "dist",
     "README.md",

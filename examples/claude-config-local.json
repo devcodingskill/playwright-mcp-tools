@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "playwright": {
+      "command": "node",
+      "args": [
+        "C:\\Users\\YutthanaTantinimitch\\Projects\\Playwright\\playwright-mcp-tools\\dist\\cli.js", 
+        "serve"
+      ],
+      "env": {
+        "NODE_ENV": "production"
+      }
+    }
+  }
+}

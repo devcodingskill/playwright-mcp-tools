@@ -52,12 +52,12 @@ This guide helps you publish the MCP Playwright package to npm.
 
 ## Package Scope (Optional)
 
-To publish under a scope (e.g., `@yourorg/mcp-playwright`):
+To publish under a scope (e.g., `@devcodingskill/mcp-playwright`):
 
 1. Update `package.json` name field:
    ```json
    {
-     "name": "@yourorg/mcp-playwright"
+     "name": "@devcodingskill/mcp-playwright"
    }
    ```
 
@@ -78,7 +78,7 @@ npm install -g mcp-playwright
 npm install mcp-playwright
 
 # With scope
-npm install -g @yourorg/mcp-playwright
+npm install -g @devcodingskill/mcp-playwright
 ```
 
 ## Verification
