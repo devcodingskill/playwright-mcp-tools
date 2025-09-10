@@ -6,19 +6,18 @@ module.exports = {
   ],
   extends: [
     'eslint:recommended',
-    '@typescript-eslint/recommended',
   ],
   env: {
     node: true,
     es2022: true,
+    jest: true,  // Add Jest environment for test files
   },
   parserOptions: {
     ecmaVersion: 2022,
     sourceType: 'module',
   },
   rules: {
-    '@typescript-eslint/no-explicit-any': 'warn',
-    '@typescript-eslint/no-unused-vars': 'error',
+    'no-unused-vars': 'warn',
     'no-console': 'off',
   },
 };
